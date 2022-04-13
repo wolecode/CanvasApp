@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CanvaApp</string>
+    <string name="content_description">Simple canvas application</string>
+</resources>
